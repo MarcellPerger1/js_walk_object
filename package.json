@@ -1,0 +1,21 @@
+{
+  "name": "js_walk_object",
+  "version": "0.1.0",
+  "description": "Utilities for recursively walking an object's properties",
+  "main": "src/walk_object.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "walk",
+    "utility",
+    "util",
+    "utils",
+    "walk-object",
+    "recursive",
+    "properties"
+  ],
+  "author": "Marcell Perger",
+  "license": "MIT"
+}
