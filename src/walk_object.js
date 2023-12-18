@@ -28,7 +28,6 @@ const NOT_IN_PATHMAP = "Encountered path that was not in pathMap. " +
  * @param {Object} obj The object
  * @param {RegExp} regexQuery Match the full path (not the key)
  * @param {string} rootPath The name of the root node
- * @param {Set<Object>} _memo private
  * @returns 
  */
 export function walk_bfs(startObj, regexQuery, rootPath = "<root>") {
